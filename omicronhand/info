@@ -1,0 +1,109 @@
+{
+  "uuid": "e6ddb55a4d1e1daf70b57165f39f20df",
+  "path": "Offline/omicronhand",
+  "name": "omicronhand",
+  "content": "",
+  "created_at": "2022-07-14 13:18:35",
+  "updated_at": "2022-07-14 13:33:31",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "1e1dd389185d863b35905e539106dbd9",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "69615fe690c54df6afb90f1adf2df97c": 1,
+        "9245ecc39a8a4441a6fa007014df13e0": 1,
+        "b968d15f84584403bfdd8bfc080f2689": 4,
+        "b57fb3c2ae854e198f3aa5ce6077f701": 1,
+        "05a6e624ad284de89c87b11cd299b13f": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "100uF",
+          1,
+          "ELECTROLYTIC CAPACITOR 100UF",
+          "C1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "ef316dce89504f908a012f9bdd23d6ac",
+            "uuid": "b57fb3c2ae854e198f3aa5ce6077f701"
+          }
+        ],
+        [
+          "JST_2PIN-THM-RA",
+          1,
+          "JST-PH-2-THM-RA",
+          "CN1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "e7b3f7a1511942f8a2237d711411aa9f",
+            "uuid": "05a6e624ad284de89c87b11cd299b13f"
+          }
+        ],
+        [
+          "MPU6050",
+          1,
+          "MPU6050",
+          "P1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "523d70a499074fc2bc28d70ae55273d1",
+            "uuid": "69615fe690c54df6afb90f1adf2df97c"
+          }
+        ],
+        [
+          "ESP12f",
+          1,
+          "ESP12F",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "2665e92154be4f9585bb304aa7a29b20",
+            "uuid": "9245ecc39a8a4441a6fa007014df13e0"
+          }
+        ],
+        [
+          "Res 10k",
+          4,
+          "10KRESISTOR",
+          "U2,U3,U4,U5",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "RS-Online",
+            "puuid": "327bc0a9a0544ad3bb1c8df875f72689",
+            "uuid": "b968d15f84584403bfdd8bfc080f2689"
+          }
+        ]
+      ],
+      "updateTime": 1657794811,
+      "createTime": 1657793916,
+      "histories": [],
+      "created_at": "2022-07-14 13:18:36",
+      "updated_at": "2022-07-14 13:33:31"
+    }
+  ],
+  "sort": [],
+  "title": "omicronhand",
+  "foldername": "omicronhand",
+  "schfilename": "omicronhand.json",
+  "schfilemtime": 1657794811541
+}
